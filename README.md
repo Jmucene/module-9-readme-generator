@@ -4,10 +4,11 @@
 # description
 A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 ## Installation
-Ensure that node.js and npm are installed. The steps to use this appllication:-
+Ensure that node.js and npm are installed. 
+The steps to use this appllication:-
 
-Fork the repository
-Run npm init
-Run npm i inquirer
-Run node.index.js
+1. Fork the repository
+2. Run npm init
+3. Run npm i inquirer
+4. Run node.index.js
 
