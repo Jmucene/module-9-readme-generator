@@ -20,9 +20,13 @@ To contribute to this application, create a pull request. Following a code revie
 The steps taken to achieve this:-
 
 + Fork the repo.
-⋅⋅* Create a feature branch.
-⋅⋅* Commit your new feature.
-⋅⋅* Push your branch (git push).
-⋅⋅* Create a new pull request.
+
++ Create a feature branch.
+
++ Commit your new feature.
+
++ Push your branch (git push).
+
++ Create a new pull request.
 
 
